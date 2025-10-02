@@ -1,0 +1,107 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/fa00sjqiB0edkvcSlKTmM/_buildManifest.js",
+    "static/fa00sjqiB0edkvcSlKTmM/_ssgManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/webpack-cfef7ff58914a070.js",
+    "static/chunks/fd9d1056-88acd27bac859e5d.js",
+    "static/chunks/938-0b294131ffd19a9a.js",
+    "static/chunks/main-app-fd78fc2279bf5dbd.js"
+  ],
+  "pages": {
+    "/About": [
+      "static/chunks/webpack-cfef7ff58914a070.js",
+      "static/chunks/framework-580f9d46c4a75ef1.js",
+      "static/chunks/main-0bc213d903445d88.js",
+      "static/chunks/pages/About-de4f0784338b71d5.js"
+    ],
+    "/AdminDashboard": [
+      "static/chunks/webpack-cfef7ff58914a070.js",
+      "static/chunks/framework-580f9d46c4a75ef1.js",
+      "static/chunks/main-0bc213d903445d88.js",
+      "static/chunks/cb355538-49cbcd28a79a276d.js",
+      "static/chunks/pages/AdminDashboard-7ccffd11a16f39b2.js"
+    ],
+    "/Clubs": [
+      "static/chunks/webpack-cfef7ff58914a070.js",
+      "static/chunks/framework-580f9d46c4a75ef1.js",
+      "static/chunks/main-0bc213d903445d88.js",
+      "static/chunks/cb355538-49cbcd28a79a276d.js",
+      "static/chunks/pages/Clubs-822c3e80942c0de0.js"
+    ],
+    "/Contact": [
+      "static/chunks/webpack-cfef7ff58914a070.js",
+      "static/chunks/framework-580f9d46c4a75ef1.js",
+      "static/chunks/main-0bc213d903445d88.js",
+      "static/chunks/pages/Contact-2faedc0ecca12e21.js"
+    ],
+    "/Gallery": [
+      "static/chunks/webpack-cfef7ff58914a070.js",
+      "static/chunks/framework-580f9d46c4a75ef1.js",
+      "static/chunks/main-0bc213d903445d88.js",
+      "static/chunks/pages/Gallery-9edc522e3183eca3.js"
+    ],
+    "/Home": [
+      "static/chunks/webpack-cfef7ff58914a070.js",
+      "static/chunks/framework-580f9d46c4a75ef1.js",
+      "static/chunks/main-0bc213d903445d88.js",
+      "static/chunks/pages/Home-45e4bbb56716642b.js"
+    ],
+    "/Login": [
+      "static/chunks/webpack-cfef7ff58914a070.js",
+      "static/chunks/framework-580f9d46c4a75ef1.js",
+      "static/chunks/main-0bc213d903445d88.js",
+      "static/chunks/pages/Login-4d9ff7b116d65477.js"
+    ],
+    "/News": [
+      "static/chunks/webpack-cfef7ff58914a070.js",
+      "static/chunks/framework-580f9d46c4a75ef1.js",
+      "static/chunks/main-0bc213d903445d88.js",
+      "static/chunks/pages/News-9a36a0b856f16bc0.js"
+    ],
+    "/NewsStory": [
+      "static/chunks/webpack-cfef7ff58914a070.js",
+      "static/chunks/framework-580f9d46c4a75ef1.js",
+      "static/chunks/main-0bc213d903445d88.js",
+      "static/chunks/pages/NewsStory-e7a1f6fcbd8d1421.js"
+    ],
+    "/Results": [
+      "static/chunks/webpack-cfef7ff58914a070.js",
+      "static/chunks/framework-580f9d46c4a75ef1.js",
+      "static/chunks/main-0bc213d903445d88.js",
+      "static/chunks/pages/Results-8a0628f0d170547f.js"
+    ],
+    "/Table": [
+      "static/chunks/webpack-cfef7ff58914a070.js",
+      "static/chunks/framework-580f9d46c4a75ef1.js",
+      "static/chunks/main-0bc213d903445d88.js",
+      "static/chunks/pages/Table-e20fe750dab30399.js"
+    ],
+    "/TeamDashboard": [
+      "static/chunks/webpack-cfef7ff58914a070.js",
+      "static/chunks/framework-580f9d46c4a75ef1.js",
+      "static/chunks/main-0bc213d903445d88.js",
+      "static/chunks/cb355538-49cbcd28a79a276d.js",
+      "static/chunks/pages/TeamDashboard-b2ab8d966f6a009c.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-cfef7ff58914a070.js",
+      "static/chunks/framework-580f9d46c4a75ef1.js",
+      "static/chunks/main-0bc213d903445d88.js",
+      "static/chunks/pages/_app-98cb51ec6f9f135f.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-cfef7ff58914a070.js",
+      "static/chunks/framework-580f9d46c4a75ef1.js",
+      "static/chunks/main-0bc213d903445d88.js",
+      "static/chunks/pages/_error-e87e5963ec1b8011.js"
+    ]
+  },
+  "ampFirstPages": []
+}

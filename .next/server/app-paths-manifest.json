@@ -1,0 +1,7 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/api/data/route": "app/api/data/route.js",
+  "/page": "app/page.js",
+  "/api/jobs/fixture-reminder/route": "app/api/jobs/fixture-reminder/route.js",
+  "/api/jobs/news-notification/route": "app/api/jobs/news-notification/route.js"
+}
